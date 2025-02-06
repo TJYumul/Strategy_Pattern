@@ -53,3 +53,5 @@ public class Character {
     }
 }
 ```
+
+![Blank diagram](https://github.com/user-attachments/assets/8a5c2654-ffe5-4074-be8a-bbc18af73ee4)
