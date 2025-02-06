@@ -55,4 +55,5 @@ public class Character {
 ```
 
 ## UML DIAGRAM
-![Blank diagram](https://github.com/user-attachments/assets/8a5c2654-ffe5-4074-be8a-bbc18af73ee4)
+![Blank diagram (1)](https://github.com/user-attachments/assets/099fd64d-c935-4b11-86b8-911dc3764a37)
+
